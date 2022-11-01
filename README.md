@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/LarissaLima97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaLima97&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaLima97&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LarissaLima97&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaLima97&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 </div>
